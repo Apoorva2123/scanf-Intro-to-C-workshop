@@ -75,13 +75,14 @@ By the end of the lab sessions, students were able to:
 - Write clean, readable, and well-structured C programs
 
 ## Skills Demonstrated
-- Teaching and mentoring beginner-level programming students
-- Explaining technical concepts clearly (memory, pointers, input/output)
-- C programming fundamentals (`scanf`, `printf`, data types)
-- Debugging and error analysis in C
-- Code readability, documentation, and best practices
-- Communication and instructional design for technical labs
-- Academic leadership and classroom support as a Teaching Assistant
+- Teaching Assistant experience in Introductory C Programming
+- Mentoring and supporting beginner-level computer science students
+- C programming fundamentals (scanf, printf, data types, pointers, memory management)
+- Debugging, error handling, and compiler warning analysis in C
+- Explaining low-level concepts such as memory addresses and input buffers
+- Code quality best practices (readability, indentation, naming conventions, documentation)
+- Technical communication and instructional design for programming labs
+- Academic leadership, classroom facilitation, and student support
 
 ## Notes
 These materials are intended as **learning aids** and do not guarantee coverage on quizzes, midterms, or finals. Students are encouraged to practice coding regularly and focus on understanding core concepts.
