@@ -9,6 +9,16 @@ This repository contains instructional materials and example programs used durin
 
 These materials were created to support beginner programmers and reinforce both **conceptual understanding** and **hands-on coding practice**.
 
+## Skills Demonstrated
+- Teaching Assistant experience in Introductory C Programming
+- Mentoring and supporting beginner-level computer science students
+- C programming fundamentals (scanf, printf, data types, pointers, memory management)
+- Debugging, error handling, and compiler warning analysis in C
+- Explaining low-level concepts such as memory addresses and input buffers
+- Code quality best practices (readability, indentation, naming conventions, documentation)
+- Technical communication and instructional design for programming labs
+- Academic leadership, classroom facilitation, and student support
+
 ## What I Taught in Lab Sessions
 
 During the lab sessions, I guided students through the following core concepts:
@@ -78,15 +88,6 @@ By the end of the lab sessions, students were able to:
 - Avoid common C programming mistakes
 - Write clean, readable, and well-structured C programs
 
-## Skills Demonstrated
-- Teaching Assistant experience in Introductory C Programming
-- Mentoring and supporting beginner-level computer science students
-- C programming fundamentals (scanf, printf, data types, pointers, memory management)
-- Debugging, error handling, and compiler warning analysis in C
-- Explaining low-level concepts such as memory addresses and input buffers
-- Code quality best practices (readability, indentation, naming conventions, documentation)
-- Technical communication and instructional design for programming labs
-- Academic leadership, classroom facilitation, and student support
 
 ## Notes
 These materials are intended as **learning aids** and do not guarantee coverage on quizzes, midterms, or finals. Students are encouraged to practice coding regularly and focus on understanding core concepts.
