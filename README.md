@@ -1,5 +1,9 @@
 # Intro to C Programming – Lab Instruction Materials
 
+## About This Repository
+
+I am a Teaching Assistant for the Intro to C Programming course (January 2026 to April 2026), and this repository contains lab instruction materials and example programs created to help students during lab sessions.
+
 ## Overview
 This repository contains instructional materials and example programs used during **Intro to C Programming lab sessions**. The labs were designed to help students build a strong foundation in **C programming**, with a focus on user input, memory handling, and formatted input/output.
 
