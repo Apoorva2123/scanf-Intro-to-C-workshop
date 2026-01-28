@@ -90,4 +90,4 @@ By the end of the lab sessions, students were able to:
 
 
 ## Notes
-These materials are intended as **learning aids** and do not guarantee coverage on quizzes, midterms, or finals. Students are encouraged to practice coding regularly and focus on understanding core concepts.
+These materials serve as **supplemental learning resources** and do not guarantee coverage on quizzes, midterms, or finals. Students are encouraged to practice coding regularly and focus on understanding core concepts.
